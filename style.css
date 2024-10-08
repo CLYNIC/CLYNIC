@@ -1,0 +1,5 @@
+@import url("https://fonts.google.com/share?selection.family=Varela+Round");
+
+:host{
+  --fonts-default: 'Varela Round', sans-serif;
+}
